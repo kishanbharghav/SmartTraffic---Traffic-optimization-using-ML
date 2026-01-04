@@ -1,0 +1,5 @@
+
+import json
+METRICS = {"MAE": 31.624886934673366, "RMSE": 40.45593597782294, "R2": 0.44825786122619304, "train_rows": 4773, "test_rows": 1194}
+def get_metrics():
+    return METRICS
