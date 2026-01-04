@@ -62,9 +62,10 @@ Copy code
 ---
 
 ## ⚙️ Installation & Setup
+```bash
 
 ### Step 1: Clone the Repository
-```bash
+
 git clone https://github.com/your-username/traffic-optimizer-ml.git
 cd traffic-optimizer-ml
 Step 2: Create a Virtual Environment (Recommended)
@@ -87,6 +88,9 @@ Open your browser and navigate to:
 cpp
 Copy code
 http://127.0.0.1:5000/
+```
+
+
 📊 Machine Learning Model
 The ML model is trained offline and saved as a single pipeline
 
