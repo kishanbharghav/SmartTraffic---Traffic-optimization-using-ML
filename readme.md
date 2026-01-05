@@ -4,6 +4,12 @@ Traffic congestion is a major challenge in modern urban environments. This proje
 
 ---
 
+<img width="1917" height="912" alt="Screenshot 2026-01-05 073636" src="https://github.com/user-attachments/assets/103ba167-6c01-4fdb-b608-b02de54919ae" />
+
+<img width="1919" height="905" alt="Screenshot 2026-01-05 073649" src="https://github.com/user-attachments/assets/331de00a-7537-4e83-b421-8b3e3ed6ddf1" />
+
+<img width="1917" height="909" alt="Screenshot 2026-01-05 073732" src="https://github.com/user-attachments/assets/24347634-1d53-4f08-9b9c-e0741c25d284" />
+
 ## 📌 Key Highlights
 
 - Real-time traffic congestion prediction
